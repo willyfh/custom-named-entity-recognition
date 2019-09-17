@@ -1,0 +1,44 @@
+{
+	"TOPIC": [
+		"Roadmap Planning",
+		"Iteration Planning",		
+		"Requirement Analysis",
+		"Progress Report",
+		"Design Review",
+		"Iteration Demo",
+		"Deployment Issue"
+	],
+	"DATE": [
+		"monday",
+		"today",
+		"tomorrow",
+		"this week",
+		"25th November",
+		"November 25",
+		"25/11"
+	],
+	"TIME": [
+		"1:30 pm",
+		"10 am",
+		"15:00",
+		"at 10 morning",
+		"ten a.m.",
+		"morning",
+		"noon"
+	],
+	"DURATION": [
+		"15 minutes",
+		"30 minutes",
+		"1 hour",
+		"one hour",
+		"an hour",
+		"half an hour"
+	],
+	"PERSON": [
+		"John",
+		"Tom",
+		"Ben",
+		"Bob",
+		"Amy"
+	]
+}
